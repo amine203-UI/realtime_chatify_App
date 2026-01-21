@@ -3,9 +3,7 @@
   <strong>Developed by Amine Ould Medjeber</strong>
 </p>
 
-<p align="center">
-  <img src="/frontend/public/screenshot-for-readme.png" alt="Chat App Demo" width="700">
-</p>
+
 
 ---
 
@@ -79,9 +77,5 @@ npm run dev
 
 
 
-👨‍💻 Author
-Amine Ould Medjeber
-Full-Stack Developer | Node.js • React • MongoDB • Express.js
-📧 [ouldmedjeberamine@gmail.com]
-🌐 [www.linkedin.com/in/amine-medjeber]
+
 
